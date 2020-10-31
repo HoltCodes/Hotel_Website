@@ -137,7 +137,7 @@ p {
 /* ---------------------------Showcase ----------------------------*/
 
 #showcase {
-  background: url(img/showcase.JPG);
+  background: url('img/showcase.jpg');
   height: 600px;
 }
 
@@ -166,7 +166,7 @@ p {
 #home-info .info-img {
   float: left;
   width: 50%;
-  background: url('/img/photo-1.jpg') no-repeat;
+  background: url('img/photo-1.jpg') no-repeat;
   min-height: 100%;
 }
 
@@ -220,7 +220,7 @@ p {
 /* ---------------------Testimonials------------------------------- */
 #testimonials {
   height: 100%;
-  background: url('/img/test-bg.jpg') no-repeat center center/cover;
+  background: url('img/test-bg.jpg') no-repeat center center/cover;
   padding-top: 100px;
 }
 
